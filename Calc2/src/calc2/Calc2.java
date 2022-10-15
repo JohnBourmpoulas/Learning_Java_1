@@ -6,7 +6,7 @@ package calc2;
 
 /**
  *
- * @author johnsamos
+ * @author skyfighter
  */
 
 import javax.swing.JOptionPane;
